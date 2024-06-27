@@ -9,6 +9,7 @@ The Customer Retention Dashboard focuses on analyzing and improving customer loy
 - Retention rate
 - Customer satisfaction scores
 - Feedback analysis
+  
 ![customer retention dashboard](https://github.com/ChaitaleePatil/Call-Centre-Data-Analysis/assets/163013839/10a0bf14-668a-4d7b-9d4f-08664f9b6fcb)
 
 ## Call Center Dashboard for Manager
@@ -18,6 +19,7 @@ The Call Center Dashboard offers a detailed view of the call center's operations
 - Average call duration
 - Call resolution times
 - Agent performance metrics
+  
 ![Call center dashboard for manager](https://github.com/ChaitaleePatil/Call-Centre-Data-Analysis/assets/163013839/f891592e-2f3a-4cee-aaaf-cf795397ff2f)
 
 ## How to Use
